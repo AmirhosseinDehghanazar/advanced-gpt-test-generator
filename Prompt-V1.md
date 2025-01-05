@@ -87,12 +87,10 @@ After completing the test, generate a professional PDF report with the following
 **Question 1:**  
 What is the output of the following code?  
 
-```python  
 def add(a, b):  
     return a + b  
 
 print(add(3, 5))  
-  ```
 
 A. 35  
 B. 8  
